@@ -1,0 +1,117 @@
+
+.jumbotron {
+  background-image: url(img/hero4.png);
+  height: 100vh;
+  
+}
+.row {
+  padding-top: 20rem;
+  
+  
+}
+
+
+.col-lg-9 h1 {
+  font-size: 4rem;
+  font-weight: 900;
+  
+}
+
+.col-lg-9 p {
+  font-size: 1.5rem;
+  font-weight: 700;
+  width: 90%;
+}
+
+@media (max-width:667px) {
+  .col-lg-9 h1 {
+    font-size: 2.5rem;
+  }
+
+  .col-lg-9 p {
+    font-size: 1rem;
+  }
+
+
+  .row {
+    padding-top: 8rem;
+  }
+  
+
+}
+
+ul .nav-item {
+  padding-right: 2rem;
+}
+
+ul .nav-item .nav-link {
+  font-size: 1.2rem;
+}
+
+
+.trend-section {
+  padding-top: 5rem;
+}
+
+
+
+.newest-row {
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+}
+
+
+
+
+.card-add {
+  background-image: url(img/b17.jpg);
+  background-size: cover;
+  height: 30vh;
+  color: white;
+  
+}
+
+
+.newest-row-2 {
+  padding: 0;
+  margin-bottom: 10rem;
+}
+
+
+.card-trend {
+  background-image: url(img/b10.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  
+}
+
+.card-trend-2 {
+  background-image: url(img/b1.jpg);
+  color: white;
+}
+
+
+.card-trend-3 {
+  background-image: url(img/b19.jpg);
+}
+
+.newest-row-2 {
+  padding-top: 10rem;
+}
+
+
+.footer-row {
+  
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+
+.footer-header {
+  white-space: nowrap;
+}
+
+
+
+
